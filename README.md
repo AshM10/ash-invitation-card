@@ -25,7 +25,7 @@ This is the start of my Code First Girls JavaScript MOOC Sprint! ❤️
 
 ### Screenshot
 
-<img width="248" alt="Screen Shot 2022-09-30 at 11 38 38 AM" src="https://user-images.githubusercontent.com/89284873/193317171-0beca8c0-a817-4196-a56f-9532e42bcfed.png">
+![Screen Shot 2022-09-30 at 12 11 36 PM](https://user-images.githubusercontent.com/89284873/193322189-9b01c15a-4f25-4e81-b4fa-94348049f223.png)
 
 ### Link
 
